@@ -1,14 +1,13 @@
 ## History in Motion 
 History in Motion is a guided walking tour app with walks around downtown San Diego, California. Whether you want to checkout some historic bars, buildings, or places in history this is the app for you!
 
+Visit deployed app here: https://morning-springs-46743.herokuapp.com/
+
 ## Motivation
 History in Motion was the capstone project from Team PAEJ in the 2019 Charlie cohort at LEARN Academy. No one in the group is native to San Diego, and we saw this as a good opportunity to learn more about what San Diego used to be, all in one place and accessible as we're walking around exploring the city.
 
 ## Build status
 MVP is met - we wanted to have a home page with an about section, a carousel of images, linke to the landmarks in our database, the ability to sign up/log in/log out, and when logged in view teo 'curated walks' - one for landmarks, one for speakeasies.  Currently in process is the Favorite functionality - logged-in users can 'Like' a landmark to save for later, then access in a Favorites page.  Functionality for unlike/Like to stay liked when the user leaves and returns to the page are in process, ice-box and may be removed in final product.
- 
-## Screenshots
-TODO
 
 ## Tech/framework used
 
